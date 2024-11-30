@@ -4,12 +4,12 @@
 An open-source Chinese serif font derived from [LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong), released under the [IPA Font License 1.0](https://opensource.org/licenses/IPA/) and is available for free commercial use.
 
 ## 简介
+将《[霞鹜新致宋](https://github.com/lxgw/LxgwNeoZhiSong)》（原字体详细信息点此链接了解）汉字字形横向稍压缩、纵向略拉长而得，**使中宫观感更加紧凑，填补了没有“较瘦而又不太高”且“符合大陆字形标准”的宋体的空白**。
+![](https://github.com/Fisher4124/ShiyanSongti/blob/main/演示0.png)  
+![](https://github.com/Fisher4124/ShiyanSongti/blob/main/演示1.png)  
 
-![](https://raw.githubusercontent.com/Fisher4124/ShiyanSongti/blob/main/演示1.png)  
-
-## 下载
-1. 进入[Releases](https://github.com/Fisher4124/ShiyanSongti/releases)页面下载。
-2. 进入[百度网盘（提取码：mesm）](https://pan.baidu.com/s/1wnr91JQJ10qiiaycrFnFow?pwd=mesm)下载《实验宋体》ttf格式文件的zip压缩包。
+## 网盘
+1. 进入[百度网盘（提取码：mesm）](https://pan.baidu.com/s/1wnr91JQJ10qiiaycrFnFow?pwd=mesm)下载《实验宋体》ttf格式文件的zip压缩包。
 
 ## 鸣谢
 - [霞鹜LXGW](https://lxgw.github.io/)
