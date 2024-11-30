@@ -10,7 +10,7 @@ An open-source Chinese serif font derived from [LXGW Neo ZhiSong](https://github
 ![](https://github.com/Fisher4124/ShiyanSongti/blob/main/演示1.png)  
 
 ## 网盘
-1. 进入[百度网盘（提取码：mesm）](https://pan.baidu.com/s/1wnr91JQJ10qiiaycrFnFow?pwd=mesm)下载《实验宋体》ttf格式文件的zip压缩包。
+进入[百度网盘（提取码：mesm）](https://pan.baidu.com/s/1wnr91JQJ10qiiaycrFnFow?pwd=mesm)下载《实验宋体》ttf格式文件
 
 ## 鸣谢
 - [霞鹜LXGW](https://lxgw.github.io/)
