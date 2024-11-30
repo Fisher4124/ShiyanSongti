@@ -1,6 +1,6 @@
 # 实验宋体 / ShiyanSongti
 一款衍生于《[霞鹜新致宋](https://github.com/lxgw/LxgwNeoZhiSong)》的开源中文宋体字型，依照《[IPA 开放字体授权条款 1.0 版](https://opensource.org/licenses/IPA/)》开源发布，可供免费商用。
-An open-source Chinese serif font derived from [LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong), released under the [IPA Font License 1.0(https://opensource.org/licenses/IPA/)] and is available for free commercial use.
+An open-source Chinese serif font derived from [LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong), released under the [IPA Font License 1.0](https://opensource.org/licenses/IPA/) and is available for free commercial use.
 
 ## 简介
 
