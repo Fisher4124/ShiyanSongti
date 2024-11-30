@@ -1,7 +1,7 @@
 # IPA Font License Agreement v1.0 <Japanese/English>
 
 * [For English, please click here.](#ipa-font-license-agreement-v10)
-* [汉译版请点击此处查看。](LICENSE_CHS.md)
+* [中文翻译版请点击此处查看。](IPA开放字体授权协议1.0版_简体中文译本.md)
 
 ## IPAフォントライセンスv1.0
 
