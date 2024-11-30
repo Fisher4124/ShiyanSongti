@@ -4,7 +4,7 @@
 An open-source Chinese serif font derived from [LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong), released under the [IPA Font License 1.0](https://opensource.org/licenses/IPA/) and is available for free commercial use.
 
 ## 简介
-将《[霞鹜新致宋](https://github.com/lxgw/LxgwNeoZhiSong)》（原字体详细信息点此链接了解）汉字字形横向稍压缩、纵向略拉长而得，**使中宫观感更加紧凑，填补了没有“较瘦而又不太高”且“符合大陆字形标准”的宋体的领域空白**。
+将《[霞鹜新致宋](https://github.com/lxgw/LxgwNeoZhiSong)》（原字体详细信息点此链接了解）汉字字形横向稍压缩、纵向略拉长而得，**使中宫观感更加紧凑，填补了没有“较瘦而又不太高”且“符合大陆字形标准”的开源宋体的领域空白**。
 ![](https://github.com/Fisher4124/ShiyanSongti/blob/main/演示0.png)  
 ![](https://github.com/Fisher4124/ShiyanSongti/blob/main/演示1.png)  
 
