@@ -19,7 +19,7 @@ An open-source Chinese serif font conform to the Chinese mainland glyph standard
 [@落霞孤鹜](https://github.com/lxgw)、[@夜煞之乐](https://github.com/NightFurySL2001)、[世界少数民族语文研究院（SIL Global）](https://www.sil.org/)、[字形维基（Glyph Wiki）](http://zhs.glyphwiki.org/wiki/GlyphWiki:%e9%a6%96%e9%a1%b5)
 
 ## 网盘
-待发布<!-- 进入[百度网盘（提取码：待发布）](https://pan.baidu.com/)下载《实验宋体》ttf格式文件 -->
+进入[百度网盘（提取码：mesm）](https://pan.baidu.com/s/1wnr91JQJ10qiiaycrFnFow?pwd=mesm)下载《实验宋体》ttf格式文件
 
 ## 联系作者
 - **Email：** zjw4124@sina.com
