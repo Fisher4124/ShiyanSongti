@@ -14,10 +14,11 @@ An open-source Chinese serif font conform to the Chinese mainland glyph standard
 - 基底
   - [通用规范汉字表（2013）](https://github.com/NightFurySL2001/CJK-character-count/blob/master/tongyong-guifan-han.txt)
   - [汉字内码扩展规范（GBK）](https://github.com/NightFurySL2001/CJK-character-count/blob/master/gbk-han.txt)
-  - [信息交换用汉字编码字符集 辅助集（GB 12345）](https://github.com/NightFurySL2001/CJK-character-count/blob/master/gb12345-han.txt)
-  - [大五码（Big5）](https://github.com/NightFurySL2001/CJK-character-count/blob/master/big5-han.txt)
   - [香港增补字符集（HKSCS）](https://github.com/NightFurySL2001/CJK-character-count/blob/master/hkscs-han.txt)
 - 额外
+
+## 鸣谢
+[@落霞孤鹜](https://github.com/lxgw)、[@夜煞之乐](https://github.com/NightFurySL2001)
 
 ## 网盘
 待发布<!-- 进入[百度网盘（提取码：待发布）](https://pan.baidu.com/)下载《实验宋体》ttf格式文件 -->
